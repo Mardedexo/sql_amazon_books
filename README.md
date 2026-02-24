@@ -3,7 +3,7 @@ Amazon books analysis using SQL.
 
 Data downloaded uncleaned as CSV from https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019. Cleaned CSV can be found in attachments.
 
-1.	Database creation after file was cleaned. CSV file cleaned using Excel. MySQL is used for queries:
+1.	Database creation after file was cleaned. CSV file cleaned using Excel. MySQL was used in this project:
    
 
  <img width="418" height="338" alt="image" src="https://github.com/user-attachments/assets/f0d7cea5-10cb-40d0-b857-2999d9086961" />
