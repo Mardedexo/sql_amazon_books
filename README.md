@@ -6,8 +6,12 @@ Amazon book analysis using SQL
 
  <img width="418" height="338" alt="image" src="https://github.com/user-attachments/assets/f0d7cea5-10cb-40d0-b857-2999d9086961" />
 
+
  <img width="886" height="655" alt="image" src="https://github.com/user-attachments/assets/d54f216a-695c-4fd8-9395-bd991df764db" />
  
+
+
+
 
 
 2.	Categorize the 550 books to fiction and non-fiction:
