@@ -1,5 +1,5 @@
 # SQL Amazon Books
-Amazon book analysis using SQL
+Amazon books analysis using SQL
 
 1.	Database creation after file was cleaned. CSV file cleaned using Excel:
    
